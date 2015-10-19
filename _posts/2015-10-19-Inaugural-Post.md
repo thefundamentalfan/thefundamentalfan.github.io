@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Looks like we're up and running!
+title: The Inaugural Post
 ---
 
 Hey all. Abhi posting. The site is officially up, and we'll get down to business very soon. Welcome to The Fundamental Fan, a sports opinion and analysis site. Our mission statement: No noise. No nonsense. Just the fundamentals.
@@ -11,4 +11,4 @@ See you all very soon,
 
 Abhi
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![T.F.F]({{ site.baseurl }}/images/Slide1.jpeg)
