@@ -10,5 +10,3 @@ Features will continue to be added to the site, and I'm excited to share this ex
 See you all very soon,
 
 Abhi
-
-![T.F.F]({{ site.baseurl }}/images/Slide1.jpg)
