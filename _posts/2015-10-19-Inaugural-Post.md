@@ -11,4 +11,4 @@ See you all very soon,
 
 Abhi
 
-![T.F.F]({{ site.baseurl }}/images/Slide1.jpeg)
+![T.F.F]({{ site.baseurl }}/images/Slide1.jpg)
