@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
 
-Some information about you!
+This is a sports site started by fans for fans. Meet the players on our team below.
 
-### More Information
+### Abhi Sharma
 
-A place to include any other types of information that you'd like to include about yourself.
+Hey all. My name is Abhi and I started The Fundamental Fan because 140 characters on Twitter were not enough for my friends and I to express our love for our teams and sports of choice. You can reach me on Twitter @abhisharma213. Give me a shout if you have any ideas, suggestions, comments, or criticisms. 
 
-### Contact me
+My goal is to make T.F.F a great experience for everyone, and if you think you would be an asset, I'd love to have you join the team. Send any inquiries to our site email.
 
-[email@domain.com](mailto:email@domain.com)
+### Contact Us
+
+[thefundamentalfan@gmail.com](mailto:thefundamentalfan@gmail.com)
