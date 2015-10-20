@@ -7,6 +7,7 @@ permalink: /about/
 This is a sports site started by fans for fans. Meet the players on our team below.
 
 ### Abhi Sharma
+![abhi]({{ site.baseurl }}/images/abhi.jpg)
 
 Hey all. My name is Abhi and I started The Fundamental Fan because 140 characters on Twitter were not enough for my friends and I to express our love for our teams and sports of choice. You can reach me on Twitter @abhisharma213. Give me a shout if you have any ideas, suggestions, comments, or criticisms. 
 
