@@ -15,4 +15,4 @@ p.s
 
 Go 'Yals
 
-![takethecrown]({{ site.baseurl }}/images/royals.jpg)
+<img src="/images/royals.jpg" alt="Take The Crown!" width="200" height="200"/>
