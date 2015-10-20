@@ -15,4 +15,4 @@ p.s
 
 Go 'Yals
 
-![takethecrown]({{ site.baseurl }}/images/royals.png)
+![takethecrown]({{ site.baseurl }}/images/royals.jpg)
