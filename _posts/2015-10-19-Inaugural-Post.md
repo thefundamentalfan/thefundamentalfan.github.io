@@ -10,3 +10,9 @@ Features will continue to be added to the site, and I'm excited to share this ex
 See you all very soon,
 
 Abhi
+
+p.s
+
+Go 'Yals
+
+![takethecrown]({{ site.baseurl }}/images/royals.png)
