@@ -25,10 +25,4 @@ Stay crazy, guys.
 Abhi can be reached on Twitter @abhisharma213.
 
 The views expressed in this article do not necessarily represent the views of The Fundamental Fan.
- 
 
-
-
-Abhi can be reached on Twitter @abhisharma213.
-
-The views expressed in this article do not necessarily represent the views of The Fundamental Fan.
