@@ -2,7 +2,6 @@
 layout: post
 title: Jays Fly, But Royals Learn
 ---
-
 By Spencer Norkey
 
 The Blue Jays finally got their bats swinging in last night’s game. Troy Tulowitzki, Josh Donaldson, and Ryan Goins each went for deep in the 11-8 Jays victory. 
