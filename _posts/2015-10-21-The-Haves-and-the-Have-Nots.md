@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More on Cueto: The Haves and the Have Nots
+title: More on Cueto - The Haves and the Have Nots
 ---
 By Eric Cole
 
@@ -12,9 +12,13 @@ It’s too early to tell how this season turns out for the Royals.  As I type th
 Many questions linger in my mind about the Cueto trade:
 
 1) Did Cueto’s attitude inhibit his ability to pitch well?
+
 2) Does Cueto want to be part of a winning team or does he just want to be part of a historic team?  (I ask this because back in August, while in Boston, Cueto professed his love for the Boston Red Sox by stating he wanted to go there because they are a “championship-caliber team.”  What exactly does he consider the Royals to be?)
+
 3) Has Cueto been the reason for Yordano Ventura’s resurgence as a pitcher?  And, if so, is that because he has had a positive impact on him as a mentor … or because Ventura didn’t like the idea of Cueto coming in and taking over as the ace of the team.
+
 4) Does Cueto know the millions of dollars he has cost himself in his implosion?  Does he even care …. because, invariably, some big dollar team will probably offer him tens of millions in a long term contract just in the hope he returns to his old self.
+
 5) Is Cueto really as good as his statistics play him out to be?  And if so, why didn’t those statistics play out for the Royals?
 
 I’m not a Cueto fan.  You’ve probably figured that out.  I don’t respect his attitude.  I don’t believe it fits with the team of guys we have with the Kansas City Royals.  For all the positivity and energy that Zobrist has brought to the team, Cueto has sapped an equal amount out of the team and it’s fans.   Even the Royal’s fans have a love / hate relationship with Cueto.  What Royals fan hasn’t trembled at the thought of Johnny Cueto pitching Game 7 of the ALCS if it happens.  (Yes, I know Ned would have him on a short leash but you can’t afford to give up even 2 runs to a team like Toronto.)
