@@ -23,7 +23,4 @@ I guess the lesson to be learned is, don’t underestimate these Mets. Yeah, sur
 
 Stay crazy, guys. 
 
-Abhi can be reached on Twitter @abhisharma213.
-
-The views expressed in this article do not necessarily represent the views of The Fundamental Fan.
-
+<i>Abhi can be reached on Twitter @abhisharma213.</i>

@@ -18,6 +18,4 @@ My thoughts go to occasions like "Deflategate". Now, I know that it hasn't been 
 
 Failure and success doesn't have to be based solely on the record of a team. Expanding the views of what you see as a success can change how you view a sport as a whole. So next time you're watching your favorite team, remember how can enjoy it even while losing.
 
-Spencer can be reached on Twitter @sporkity162.
-
-The views expressed in this article do not necessarily represent the views of The Fundamental Fan.
+<i>Spencer can be reached on Twitter @sporkity162.</i>

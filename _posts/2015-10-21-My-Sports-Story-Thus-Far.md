@@ -37,6 +37,5 @@ Ethan McChesney
 -- Eternal Kansas City pessimist, Alex Gordon enthusiast, and occasionally 
 interested in the real world --
 
-Ethan can be reached on Twitter @etmcchesney27.
+<i>Ethan can be reached on Twitter @etmcchesney27.</i>
 
-The views expressed in this article do not necessarily represent the views of The Fundamental Fan.

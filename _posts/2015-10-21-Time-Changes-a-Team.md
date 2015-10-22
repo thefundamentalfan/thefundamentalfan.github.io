@@ -20,6 +20,4 @@ It’s amazing what just 10 years can do. The Kansas City Royals are a legitimat
 
 Now ... let’s take this crown.
 
-Zac Cole can be reached on Twitter @zcole2000.
-
-The views expressed in this article do not necessarily represent the views of The Fundamental Fan.
+<i>Zac Cole can be reached on Twitter @zcole2000.</i>

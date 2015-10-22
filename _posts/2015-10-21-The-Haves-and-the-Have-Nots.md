@@ -35,6 +35,4 @@ Maybe the Royals wouldn’t be where they are without Johnny Beisbol.  That argu
 
 I wasn’t sad the Royals didn’t even have a chance at making an offer for James Shields.  And I know I won’t be sad when the Royals small market team can’t make a run at Johnny “Beisbol” Cueto.  He doesn’t fit in with the team we’ve built and come to love.    The Royals have provided an immense amount of joy for all of us long time Royals fans over the past 3 years.  I’ll be in stands next season cheering the team on as they pound out runs on Boston’s newest overpriced signing:  Johnny Cueto.
 
-Eric can be reached on Twitter @emlzcole.
-
-The views expressed in this article do not necessarily represent the views of The Fundamental Fan.
+<i>Eric can be reached on Twitter @emlzcole.</i>
