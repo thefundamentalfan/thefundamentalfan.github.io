@@ -7,7 +7,7 @@ By Eric Cole
 On August 28, 2008, Commissioner Bud Selig began the process of killing the stolen base. 
 
 <p style="text-align:center;"><img src="/images/selig.jpg" alt="selig!" width="300" height="200"/></p>
-<p style='text-align:center;'><i>Former MLB commissioner Bud Selig<i></p>
+<p style='text-align:center;'><i>Former MLB commissioner Bud Selig</i></p>
 
 Jack Curig of the New York Times quoted Selig as stating  "I believe that the extraordinary technology that we now have merits the use of instant replay on a very limited basis. The system we have in place will ensure that the proper call is made on home run balls and will not cause a significant delay to the game."  What Selig didn't say was what we all knew: That this would simply be limited trial of replay to wean the players,owners and umpires of their fears over time. Like it or not, replay was coming. 
 

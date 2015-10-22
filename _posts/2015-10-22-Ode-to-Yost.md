@@ -14,7 +14,7 @@ Milwaukee Brewers (He went 0 for 1. But A+ for
 effort, Ned). 
 
 <p style="text-align:center;"><img src="/images/yost-brewers.jpg" alt="selig!" width="200" height="300"/></p>
-<p style="text-align:center;"><i>[Editor's note: what a beautiful man.]<i></p>
+<p style="text-align:center;"><i>[Editor's note: what a beautiful man.]</i></p>
 
 Yost played for the Milwaukee Brewers for 4 
 years, Texas Rangers for 1 year and the Montreal 
@@ -56,7 +56,7 @@ Royals are in the postseason. And one win away from
 another World Series.
 
 <p style="text-align:center;"><img src="/images/happyyost.jpg" alt="yost!" width="300" height="200"/></p>
-<p style="text-align:center;"><i>[Happy Yost, right where he belongs.]<i></p>
+<p style="text-align:center;"><i>[Happy Yost, right where he belongs.]</i></p>
 
 Ned Yost is now the longest tenured manager in 
 Kansas City Royals history. He is also the winningest 
