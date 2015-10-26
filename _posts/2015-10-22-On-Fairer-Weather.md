@@ -27,6 +27,4 @@ some good ‘ol fashioned baseball.
 
 Let’s win this thing. #TakeTheCrown
 
-Aidan can be reached on Twitter @Ayyy_Dan.
-
-The views expressed in this article do not necessarily represent the views of The Fundamental Fan.
+<i>Aidan can be reached on Twitter @Ayyy_Dan.</i>

@@ -77,6 +77,4 @@ and work in Kansas City will ever be forgotten.
 
 You just got Yosted.
 
-Zac Cole can be reached on Twitter @zcole2000.
-
-The views expressed in this article do not necessarily represent the views of The Fundamental Fan.
+<i>Zac Cole can be reached on Twitter @zcole2000.</i>

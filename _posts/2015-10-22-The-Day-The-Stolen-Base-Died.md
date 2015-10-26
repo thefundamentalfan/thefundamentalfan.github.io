@@ -29,6 +29,4 @@ When a call is blown it should be reversed. It's simple. Very simple. But I'm no
 
 Let the umps do their umpiring. Let the coaches do their coaching. Let the base runners do their running. And let the fielders do their best swipe tag on an incoming runner sliding in to second or third. Let's get back to the excitement of the stolen base and distance ourselves of the thrill of another three minute wait for a long distance call to New York. God help us if we start reviewing the neighborhood play or pitches in (or out) of the strike zone. Six hour ball games may be in our future if that ever happens. If and until then, let's all bow our heads in prayer for the sanctity of the amazing stolen base. 
 
-Eric can be reached on Twitter @emlzcole.
-
-The views expressed in this article do not necessarily represent the views of The Fundamental Fan.
+<i>Eric can be reached on Twitter @emlzcole.</i>
