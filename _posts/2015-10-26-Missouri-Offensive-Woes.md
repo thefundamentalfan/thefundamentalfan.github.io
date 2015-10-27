@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Missouri Tigers' Offensive Woes
+tags: [football]
 ---
 By Daric Bokarae
 

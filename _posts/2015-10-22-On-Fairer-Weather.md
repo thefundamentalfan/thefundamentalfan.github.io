@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Fairer Weather
+tags: [general]
 ---
 By Aidan Garrett
 

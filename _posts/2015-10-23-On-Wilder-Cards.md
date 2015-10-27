@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Wilder Cards
+tags: [baseball]
 ---
 By Zac Cole
 

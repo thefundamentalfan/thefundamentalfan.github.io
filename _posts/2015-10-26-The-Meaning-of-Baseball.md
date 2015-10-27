@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Enigma Behind the Meaning of Baseball
+tags: [baseball]
 ---
 By Eric Cole
 

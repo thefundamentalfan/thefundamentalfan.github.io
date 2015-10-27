@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Day the Stolen Base Died
+tags: [baseball]
 ---
 By Eric Cole
 

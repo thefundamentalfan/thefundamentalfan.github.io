@@ -1,6 +1,7 @@
 ---
 layout: post
 title: At a Disadvantage
+tags: [baseball]
 ---
 By Ethan McChesney
 
@@ -46,7 +47,7 @@ generation of fans that will be forever loyal to them because they have seen the
 baseball, when it is cultivated, generates renewed interest from old fans and new interest from 
 younger fans. We have entered an era where small market cities and organizations have nearly 
 just as strong a chance to win as everyone else as long as they are innovative. The Royals 
-have been innovative, they have created their own way to win, and i'll be damned if that hasn't 
+have been innovative, they have created their own way to win, and I'll be damned if that hasn't 
 been great for all of us.
 
 Sports Mirror Life

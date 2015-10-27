@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Sports Story, Thus Far
+tags: [general, baseball, football]
 ---
 By Ethan McChesney
 

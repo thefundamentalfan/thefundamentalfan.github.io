@@ -1,6 +1,7 @@
 ---
 layout: post
 title: More on Cueto - The Haves and the Have Nots
+tags: [baseball]
 ---
 By Eric Cole
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Turbulent Times of Johnny Cueto
+tags: [baseball]
 ---
 By Daric Bokarae
 

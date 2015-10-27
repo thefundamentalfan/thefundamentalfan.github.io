@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Inaugural Post
+tags: [general]
 ---
 
 Hey all. Abhi posting. The site is officially up, and we'll get down to business very soon. Welcome to The Fundamental Fan, a sports opinion and analysis site. Our mission statement: No noise. No nonsense. Just the fundamentals.

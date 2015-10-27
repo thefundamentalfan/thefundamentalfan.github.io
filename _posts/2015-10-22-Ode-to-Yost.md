@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ode to Yost
+tags: [baseball]
 ---
 By Zac Cole
 

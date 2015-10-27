@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Failure
+tags: [general]
 ---
 By Spencer Norkey
 

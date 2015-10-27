@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jays Fly, But Royals Learn
+tags: [baseball]
 ---
 By Spencer Norkey
 

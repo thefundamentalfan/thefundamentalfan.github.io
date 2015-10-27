@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Time Changes a Team
+tags: [baseball]
 ---
 By Zac Cole
 

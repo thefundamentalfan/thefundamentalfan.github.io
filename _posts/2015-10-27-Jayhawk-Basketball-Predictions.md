@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Jayhawk Basketball - Predictions
+tags: [basketball]
 ---
 By Spencer Norkey
 
