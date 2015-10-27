@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On The NHL Draft and The World: The Saga of Seth Jones
+title: On The NHL Draft and The World - The Saga of Seth Jones
 ---
 By Eric Cole
 
