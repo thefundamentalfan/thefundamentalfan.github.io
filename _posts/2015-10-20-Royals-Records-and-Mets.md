@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the Royals, Postseason Records, and Why I Was Wrong About The Mets
-tags: [general, baseball]
+tags: [baseball]
 ---
 By Abhi Sharma
 
