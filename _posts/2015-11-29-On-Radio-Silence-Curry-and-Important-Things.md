@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Radio Silence, Chef Curry, and Things More Important Than Sports
-tags: [baseball]
+tags: [general, basketball]
 ---
 By Abhi Sharma
 
