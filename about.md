@@ -14,7 +14,7 @@ Hey all. My name is Abhi and I started The Fundamental Fan because 140 character
 My goal is to make T.F.F a great experience for everyone, and if you think you would be an asset, I'd love to have you join the team. Send any inquiries to our site email.
 
 ### Eric Cole - Advanced Analyst
-<img src="/images/eric.jpg" alt="Eric" width="200" height="200"/>
+<img src="/images/eric.JPG" alt="Eric" width="200" height="200"/>
 
 I'm just an average fan of the drama, intensity, strategy, thought, skill, determination, passion, hope and fortitude that makes up the wide world of sports. I write because I have my own opinions but I realize my opinions won't change the world of sports in any way, shape or form.  It's just one fan's way of making the world a better place with another unsolicited viewpoint on a brief moment in time of the thing we call: Sports.  I hope you enjoy reading what I wrote as much as I enjoyed writing it. Cheers!
 
