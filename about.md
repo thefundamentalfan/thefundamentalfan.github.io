@@ -18,6 +18,16 @@ My goal is to make T.F.F a great experience for everyone, and if you think you w
 
 I'm just an average fan of the drama, intensity, strategy, thought, skill, determination, passion, hope and fortitude that makes up the wide world of sports. I write because I have my own opinions but I realize my opinions won't change the world of sports in any way, shape or form.  It's just one fan's way of making the world a better place with another unsolicited viewpoint on a brief moment in time of the thing we call: Sports.  I hope you enjoy reading what I wrote as much as I enjoyed writing it. Cheers!
 
+### Daric Bokarae - Contributor
+
+### Zac Cole - Contributor
+
+### Spencer Norkey - Contributor
+
+### Ethan McChesney - Contributor
+
+### Aidan Garrett - Contributor
+
 ### Contact Us
 
 [thefundamentalfan@gmail.com](mailto:thefundamentalfan@gmail.com)
