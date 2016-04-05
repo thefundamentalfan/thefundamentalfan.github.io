@@ -21,7 +21,7 @@ So where did our Royals fall in terms of 2015 payroll? Exactly in the middle. 16
 
 This isn't any groundbreaking analysis. In fact, ever since Billy Beane and his A's brought Bill James' sabermetrics to the mainstream, team payroll and success have been correlated less and less as each year passes.
 
-But can there be a sweet spot? Can you hit the payroll <i>just so<i> and see it soar over the left field wall?
+But can there be a sweet spot? Can you hit the payroll <i>just so</i> and see it soar over the left field wall?
 
 I think the Royals have it figured out. Let's take a look at the AL last season. The biggest spenders behind the Dodgers were all AL teams, with the Yanks ($219,282,196) in 2nd, Red Sox ($187,407,202) in 3rd, and the Tigers ($173,813,750) in 4th. How did they compare with the Royals ($113,618,650) who were as middle-of-the-pack as you could get>
 
@@ -29,7 +29,7 @@ I think it's a multifaceted problem for those big spending teams. These teams al
 At the end of the day, though, spending tens/hundreds of millions of dollars on aging talent resulted in exactly the opposite of pennants for these teams; indeed, most of their stars spent significant time either injured or slumping, and even as their production went down, they still kept taking the field because teams have a tough time benching a $30 million dollar player, even if he's hitting like garbage (this one's for you, Red Sox).
 Even worse, that meant they didn't really have the funds nor the player room to actually develop younger guys and give them time in the field. That means that teams with great farm systems like the Yankees end up with a rotation full of injury-prone, really expensive, and aging aces rounded out by a random below-league-average 3rd/4th slot pitcher like Nathan Eovaldi.
 
-"There is something to be said about spending <i>some<i> money, though," I can hear you muttering again, and I'll give you credit where credit is due. Intuitively, a team that spends close to nothing can't possibly succeed, can they?
+"There is something to be said about spending <i>some</i> money, though," I can hear you muttering again, and I'll give you credit where credit is due. Intuitively, a team that spends close to nothing can't possibly succeed, can they?
 
 Well.........
 
