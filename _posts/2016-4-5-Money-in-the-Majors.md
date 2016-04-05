@@ -11,7 +11,7 @@ What do Goldilocks, the strong American middle class, and the Royals all have in
 
 Payrolls that are just right. Not too high, not too low. Just right.
 
-What on Earth is Abhi talking about, some of you mutter. I can hear you, even from the East Coast.
+"What on Earth is Abhi talking about," some of you mutter. I can hear you, even from the East Coast.
 
 I want to talk about Major League payroll. Sure, not the most exciting thing on face, but trust me, by the end of this page I'll have you hooked.
 
@@ -23,7 +23,7 @@ This isn't any groundbreaking analysis. In fact, ever since Billy Beane and his 
 
 But can there be a sweet spot? Can you hit the payroll <i>just so</i> and see it soar over the left field wall?
 
-I think the Royals have it figured out. Let's take a look at the AL last season. The biggest spenders behind the Dodgers were all AL teams, with the Yanks ($219,282,196) in 2nd, Red Sox ($187,407,202) in 3rd, and the Tigers ($173,813,750) in 4th. How did they compare with the Royals ($113,618,650) who were as middle-of-the-pack as you could get>
+I think the Royals have it figured out. Let's take a look at the AL last season. The biggest spenders behind the Dodgers were all AL teams, with the Yanks ($219,282,196) in 2nd, Red Sox ($187,407,202) in 3rd, and the Tigers ($173,813,750) in 4th. How did they compare with the Royals ($113,618,650) who were as middle-of-the-pack as you could get.
 
 I think it's a multifaceted problem for those big spending teams. These teams all have high aspirations (and investor expectations) and therefore believe they are justified in throwing as much cash around as they did.
 At the end of the day, though, spending tens/hundreds of millions of dollars on aging talent resulted in exactly the opposite of pennants for these teams; indeed, most of their stars spent significant time either injured or slumping, and even as their production went down, they still kept taking the field because teams have a tough time benching a $30 million dollar player, even if he's hitting like garbage (this one's for you, Red Sox).
@@ -46,12 +46,12 @@ Here's a handy dandy graphic I got from BI that really breaks down how teams are
 Now, there's a million things I could go on about regarding the graphic above (LOOK HOW MUCH MORE THE GIANTS ARE PAYING THEIR PITCHERS THAN THEIR POSITION PLAYERS), but I believe there is something to be said for inspecting the graphic by your lonesome and coming to your own conclusions. If you want, comment below! 
 
 I hope this hasn't bored everyone to death. Just some stuff I thought was interesting.
-
 Have a great day, friends. The Royals are about to start playing soon. And so I must leave you.
-
 But with baseball back, I'll be putting up way more stuff and hopefully we can continue to nerd out about sports together.
 
-Let me end with one of my favorite quotes: "Baseball is 90% mental, and the other half is physical." -- Yogi Berra.
+Let me end with one of my favorite quotes: 
+
+"Baseball is 90% mental, and the other half is physical." -- Yogi Berra.
 
 <i>Abhi can be reached on twitter @abhisharma213.</i>
 
