@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-<p style='text-align:center;'> No noise. No nonsense. Just the fundamentals.</p> 
+<h2 style='text-align:center;'> No noise. No nonsense. Just the fundamentals.</h2> 
 
-<p style='text-align:center;'> Want to join the team? Check the About Us tab.</p>
+<h3 style='text-align:center;'> Want to join the team? Check the About Us tab.</h3>
+
+<h1 style='text-align:center;'>Featured Posts</h1>
 
 <div class="posts">
   {% for post in site.posts limit:5 %}
@@ -20,4 +22,4 @@ layout: default
   {% endfor %}
 </div>
 
-<a href="{{ site.baseurl }}/allposts">All Posts.</a>
+<a href="{{ site.baseurl }}/allposts">All Posts</a>
